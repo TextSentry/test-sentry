@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+<title id="title">TextSentry icon</title><desc id="desc">Blue and purple security shield around a white message bubble, with a red blocked symbol.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#192f57"/><stop offset=".6" stop-color="#08172f"/><stop offset="1" stop-color="#050e20"/></linearGradient>
+  <linearGradient id="shield" x1=".1" y1="0" x2=".9" y2="1"><stop stop-color="#26d7ee"/><stop offset=".51" stop-color="#258cfa"/><stop offset="1" stop-color="#6551f9"/></linearGradient>
+  <linearGradient id="bubble" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#e8eefa"/></linearGradient>
+  <linearGradient id="block" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff504f"/><stop offset="1" stop-color="#f42739"/></linearGradient>
+</defs>
+<rect width="512" height="512" rx="98" fill="url(#background)"/>
+<path d="M256 62 C202 93 148 109 91 120 Q74 123 74 145 V254 C74 343 136 411 256 468 C376 411 438 343 438 254 V145 Q438 123 421 120 C364 109 310 93 256 62 Z" fill="none" stroke="url(#shield)" stroke-width="33" stroke-linejoin="round"/>
+<path d="M175 166 H336 C374 166 393 192 393 226 V273 C393 309 371 325 336 325 H216 L163 362 Q153 369 157 348 L162 320 C129 314 119 295 119 268 V227 C119 187 136 166 175 166 Z" fill="url(#bubble)"/>
+<g fill="#0c1c39"><circle cx="196" cy="247" r="15"/><circle cx="256" cy="247" r="15"/><circle cx="316" cy="247" r="15"/></g>
+<circle cx="361" cy="351" r="72" fill="#0b1730"/>
+<circle cx="361" cy="351" r="58" fill="none" stroke="url(#block)" stroke-width="19"/>
+<path d="M320 310 L402 392" stroke="url(#block)" stroke-width="19" stroke-linecap="round"/>
+</svg>

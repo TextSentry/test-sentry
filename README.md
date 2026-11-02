@@ -10,6 +10,10 @@
 
 </div>
 
+## License
+
+The original documentation and artwork in this repository are licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE). Personal, educational, and other noncommercial sharing and adaptations are permitted with the required attribution; **commercial use requires separate written permission from the applicable copyright holder**. This license does not grant trademark rights in the TextSentry name or logo or imply endorsement. The mobile app source code is separately licensed under PolyForm Noncommercial 1.0.0; see the [Android license](https://github.com/TextSentry/text-sentry-android/blob/main/LICENSE) and [iOS license](https://github.com/TextSentry/text-sentry-ios/blob/main/LICENSE).
+
 ## Overview
 
 TextSentry is an Android app designed to help you take control of unwanted SMS messages. It uses AI to evaluate incoming texts and decide whether they fit the categories you want to filter, such as political campaigns, voting outreach, and marketing advertisements.
